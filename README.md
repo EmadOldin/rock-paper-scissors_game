@@ -1,9 +1,11 @@
 # rock-paper-scissors_game
 
-
-Welcome to my procject.
-
-For start Write this commend:
+--------------------------------------------------------------------
+Welcome to my RPS Game project :)
 
 
-"python RPS.py"
+For run Game on Termux / Linux:
+1. git clone https://github.com/EmadOldin/rock-paper-scissors_game/
+2. cd rock-paper-scissors_game
+3. python3 RPS.py
+---------------------------------------------------------------------
